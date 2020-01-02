@@ -28,7 +28,7 @@ public class SampleWorldRasterizer implements WorldRasterizer {
 
     @Override
     public void initialize() {
-        snow = CoreRegistry.get(BlockManager.class).getBlock("Core:Snow");
+        snow = CoreRegistry.get(BlockManager.class).getBlock("CoreBlocks:Snow");
     }
 
     @Override
