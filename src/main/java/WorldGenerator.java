@@ -35,6 +35,12 @@ public class WorldGenerator extends BaseFacetedWorldGenerator {
         return new WorldBuilder(worldGeneratorPluginLibrary)
                 .addRasterizer(new SampleWorldRasterizer())
                 .addProvider(new SurfaceProvider())
-                .addProvider(new SeaLevelProvider(0));
+                .addProvider(new SeaLevelProvider(0))
+                .addProvider(new HouseProvider())
+                .addRasterizer(new HouseRasterizer())
+                .addRasterizer(new LakesRasterizer())
+                .addProvider(new LakesProvider())
+                .addProvider(new MountainsProvider())
+                .addPlugins();
     }
 }
