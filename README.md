@@ -13,5 +13,5 @@ This extraordinary world has some interesting features, as listed below:
 ![Screenshot (150)](https://user-images.githubusercontent.com/24259630/71758229-d9655600-2ea5-11ea-8578-25f8dcd0b992.png)
 
 ### with plugin:
-![Screenshot (155)](https://user-images.githubusercontent.com/24259630/71771371-72e24580-2f42-11ea-9f41-4937455f3fd9.png)
-![Screenshot (157)](https://user-images.githubusercontent.com/24259630/71771372-72e24580-2f42-11ea-97ec-b8af419d7e25.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/24259630/71772267-53064e00-2f51-11ea-89e4-c908bf6aec63.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/24259630/71772268-539ee480-2f51-11ea-8fbe-1045955588e5.png)
