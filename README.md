@@ -4,7 +4,7 @@ This extraordinary world has some interesting features, as listed below:
 2. tall mountain ranges
 3. Scattered Houses made of Stone
 3. Lakes of Lava (Beware)
-4. Gold Ore beneath the surface! (and Diamond Ore with plugin enabled!)
+4. Gold Ore beneath the surface! (and Diamond Ore with plugin enabled!) (scroll for images)
 
 ### Have fun exploring!
 
