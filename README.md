@@ -2,6 +2,7 @@
 This extraordinary world has some interesting features, as listed below:
 1. snowy conditions
 2. tall mountain ranges
+3. Scattered Houses made of Stone
 3. Lakes of Lava (Beware)
 4. Gold Ore beneath the surface!
 
